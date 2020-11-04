@@ -7,6 +7,6 @@ main:
   - title: "Data Science"
     url: /datascience/
   - title: "Photography"
-    url: /photography/
+    url: "https://erniuw.github.io/EshaWang.pdf" # /photography/
   # - title: "Sitemap"
   #   url: /sitemap/
