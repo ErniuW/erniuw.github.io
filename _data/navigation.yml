@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Resume"
     url: "https://erniuw.github.io/EshaWang.pdf"
+  - title: "Photography"
+    url: /photography/
   - title: "Data Science"
     url: /datascience/
-  - title: "Photography"
-    url: "https://erniuw.github.io/EshaWang.pdf" # /photography/
   # - title: "Sitemap"
   #   url: /sitemap/
