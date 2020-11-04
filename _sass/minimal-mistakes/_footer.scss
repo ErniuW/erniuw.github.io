@@ -15,7 +15,6 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-  position: fixed;
 
   footer {
     @include clearfix;
@@ -24,7 +23,6 @@
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
-    position: fixed;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
