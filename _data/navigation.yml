@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: /resume/
+    url: "https://erniuw.github.io/EshaWang.pdf"
   - title: "Data Science"
     url: /datascience/
   - title: "Photography"
