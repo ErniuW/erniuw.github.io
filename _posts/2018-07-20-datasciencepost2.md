@@ -1,5 +1,5 @@
 ---
-title: "Data Science Post 1"
+title: "Data Science Post 2"
 tags:
   - datascience
 ---
