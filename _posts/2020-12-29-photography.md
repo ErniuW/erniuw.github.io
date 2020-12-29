@@ -1,5 +1,5 @@
 ---
-title: "Photography Post 1"
+title: "Seattle, Mount Rainier, and Leavenworth"
 tags:
   - photography
 ---
